@@ -10,8 +10,13 @@
     "128": "icon128.png"
   },
   "permissions": [
+    "tabs",
+    "activeTab",
     "storage",
-    "activeTab"
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://chat.openai.com/*"
   ],
   "action": {
     "default_title": "ChatGPT Links Saver",
