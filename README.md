@@ -22,7 +22,6 @@ To use the ChatGPT URL Saver Chrome Extension:
 1. Navigate to a ChatGPT chat URL (e.g., https://chat.openai.com/chat/7a60e35b-aebb-47c7-b6f3-aa49e99e23b1).
 2. The URL and title of the chat should be automatically saved to the extension's local storage.
 3. To view the list of saved URLs, click on the extension icon in the Chrome toolbar.
-4. The list of saved URLs will be displayed in a table.
 
 ## Development
 
